@@ -26,4 +26,4 @@ Found the simple graph of text length by year interesting:
 ![Text Length by year](TextLengthByYear.png)
 
 And of course the final graph image:
-![Most Common Mentioned People in the Anglo Saxon Chronicle](Network_Graph.jpg)
+![Most Common Mentioned People in the Anglo Saxon Chronicle](Network_Graph.JPG)
