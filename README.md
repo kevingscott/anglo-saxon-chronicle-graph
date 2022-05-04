@@ -13,7 +13,7 @@ Script found in AngloSaxonChronicleGraph.py:
 4.  Create a graph using networkx.  Nodes where all people from Step 3 that are mentioned at least 10 times and Edges defined between any two people mentioned in the same sentence
 5.   Generate image of Graph using plotly
 
-##Known Issues
+## Known Issues
 This is still a rough draft mostly used as a learning excercise so there are many rough edges.  A few are:
 
 1. Alogrithm for identitifying people is extremely rudimentary.  Began working on attempting to train Spacy to identify differences between people and locations but it appears to need far more training data then I was interested in manually annotating so went with easier (lazier) method described above
